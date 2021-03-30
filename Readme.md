@@ -15,8 +15,6 @@ Screenshots :
   <li>
     <br>
     <center>One task has been deleted  </center>
-    <br>
-    
     <img src="./screenshots/image-2-item-deleted.JPG" >
     
   </li>
