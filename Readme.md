@@ -7,4 +7,4 @@ filtering out the tasks.
 Screenshots :
 
 
-<img src="./screenshots/Image-1.jpg">
+<img src="./screenshots/Image-1.JPG">
