@@ -6,23 +6,23 @@ filtering out the tasks.
 
 Screenshots :
 
-<ul style="align-text: center;">
+<ul >
   <li>
     Two tasks are marked as completed (hence the strikethrough ). One task is scheduled to be deleted. Rest are incomplete.  
-    <img src="./screenshots/Image-1.JPG" style="width:60px; height: 40px;">
+    <img src="./screenshots/Image-1.JPG" >
   </li>
   <li>
     One task has been deleted 
-    <img src="./screenshots/image-2-item-deleted.JPG" style="width:60px; height: 40px;">
+    <img src="./screenshots/image-2-item-deleted.JPG" >
     
   </li>
   <li>
   Using filter to see completed tasks only 
-  <img src="./screenshots/image-3-completed-tasks.JPG" style="width:60px; height: 40px;">
+  <img src="./screenshots/image-3-completed-tasks.JPG" width:60px; height: 40px;>
   </li>
   <li>
   Using filter to see incomplete tasks only 
-  <img src="./screenshots/image4-incomplete-tasks.JPG" style="width:60px; height: 40px;">
+  <img src="./screenshots/image4-incomplete-tasks.JPG" >
   </li>
   
  
