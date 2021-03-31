@@ -12,7 +12,7 @@ filtering out the tasks.
 </ul>
 <br><br>
 
-<h2>Screenshots</h2> :
+<h2>Screenshots</h2> 
 
 <ul >
   <li>
