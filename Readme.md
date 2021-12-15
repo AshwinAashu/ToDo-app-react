@@ -4,6 +4,7 @@ A simple React App that allows you to keep track of your tasks. You can add task
 them or mark them completed. The app allows you to view completed and incomplete tasks by 
 filtering out the tasks. 
 
+Fa icons used will not word unless fontawesome CDN is included 
 <h2> Some highlights </h2>
 <ul>
   <li> Used useState and useEffect for state management and filtered rendering </li>
